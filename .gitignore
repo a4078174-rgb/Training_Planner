@@ -4,10 +4,8 @@ pycache/
 *$py.class
 *.so
 .Python
-
-# Virtual Environment
-venv/
 env/
+venv/
 ENV/
 env.bak/
 venv.bak/
@@ -21,9 +19,8 @@ venv.bak/
 
 # Project specific
 trainings.json
-export_trainings_*.json
+*.log
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
-desktop.ini
